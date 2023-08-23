@@ -15,7 +15,7 @@
 - [ARL2](https://github.com/xinghe0/ARL2 ) ARL灯塔的二开项目，持续完善中
 - [AUPK](https://github.com/xinghe0/shelling/tree/main/AUPK ) 配合AUPK脱壳机进行一键脱壳
 - [FindJsInfo](https://github.com/xinghe0/FindJsInfo ) 查找前端未授权接口
-- [FindJsInfo](https://github.com/xinghe0/bugku_awd ) bugku的awd一键吃鸡小脚本
+- [bugkuawd](https://github.com/xinghe0/bugku_awd ) bugku的awd一键吃鸡小脚本
 
 # 博客
 
